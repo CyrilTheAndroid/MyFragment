@@ -1,6 +1,6 @@
 # MyFragment
 
-Code issu de la vidéo Youtube "[RecyclerView en Kotlin - Tutoriel Android Studio 2021 - À la découverte d'Android Jetpack #1](https://youtu.be/Fw_mTLrKtDY)"
+Code issu de la vidéo Youtube "[Maîtriser le Fragment - Épisode 1 - Fragment Manager - À la découverte d'Android Jetpack #3](https://youtu.be/hwc42XM_hjU)"
 
 ---
 
